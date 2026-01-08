@@ -1,9 +1,25 @@
-# NHCarrigan + freeCodeCamp 2025 Hackathon
+# NHCarrigan/freeCodeCamp 2025 Hackathon
 
-Naomi ran a month-long hackathon in the freeCodeCamp community. There were 20 teams that worked very hard all month to create production-ready real-world fullstack applications.
+<div align="center">
+<img alt="A woman in glasses and a blazer relaxes in an office, barefoot with feet on a desk. She holds a steaming mug, with a cityscape visible through the window." src="https://cdn.nhcarrigan.com/splash-fcc.png?" width=500>
+</div>
 
-This organisation holds a copy of those projects **captured at the end of the hackathon**. We preserve this organisation so participants can look back on their achievement, and all they accomplished in just one month.
+Hey there! 👋 I'm **Naomi** — a transfem software engineer, community manager, and (failed) VTuber who's passionate about building inclusive tech communities and breaking down barriers in the industry. I am the founder of [NHCarrigan](https://nhcarrigan.com) and the community manager for [freeCodeCamp](https://freecodecamp.org). Bringing these organisations together, I am running a month-long Hackathon!
 
-Participants have been encouraged to continue working on their projects together, so they can keep building those collaboration skills and have something really cool on their resume. With this in mind, our copies are specifically forks that link back to the original repository where participants have continued collaborating after the event.
+## What is the hackathon?
 
-We encourage you to check out their continued progress in [the original organisation](https://github.com/freeCodeCamp-2025-Summer-Hackathon).
+This was a month-long event. During this time, participants worked on teams to develop real-world production-grade products. Participants will gain valuable experience working on a team, and get a sense of what it is like to work in a professional setting.
+
+## What is this organisation, then?
+
+Many of the teams expressed a desire to continue working on their product together. In order to facilitate this while also preserving their codebase at the cutoff time, we have created this dedicated organisation.
+
+The repositories here represent the state of each project at the time the event ended.
+
+## How do I join?
+
+This event has ended! But if you'd like to join our future events, hop in to the [freeCodeCamp Discord](https://discord.gg/KVUmVXA)!
+
+## Want to get to know Naomi?
+
+We have our own [Discord community for NHCarrigan](https://chat.nhcarrigan.com), which is the perfect place to connect with us on a more personal level!
